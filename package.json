@@ -1,0 +1,19 @@
+{
+  "name": "@albalyu/ijavascript",
+  "version": "0.0.1",
+  "description": "JavaScript notebooks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albalyu/ijavascript.git"
+  },
+  "author": "albalyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albalyu/ijavascript/issues"
+  },
+  "homepage": "https://github.com/albalyu/ijavascript#readme"
+}
